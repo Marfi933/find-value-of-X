@@ -1,7 +1,7 @@
 # find-value-of-X
 
 # Problem:
-  input: string, which contains a numbers and a char
+  input: string, which contains a numbers and a char. Every digit of the string can occurents maximum once
   
   output: sum of numbers of left side equals to number of the right side, or throws an exception
   

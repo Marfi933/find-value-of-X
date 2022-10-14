@@ -2,13 +2,19 @@
 
 # Problem:
   input: string, which contains a numbers and a char
+  
   output: sum of numbers of left side equals to number of the right side, or throws an exception
+  
   There are some classes. If you use ThreadBruteForce class, then the class generates combination of numbers using Threads. It's faster...
+  
   
 # Implementation information:
   Class works only with operator '+';
+  
   Every method of the class has a documentation, how to use;
+  
   In string you can use char (you cant use digit variable) whatevery you want, but the variable has to be same in every occurenties;
+  
   
  # Examples:
 
